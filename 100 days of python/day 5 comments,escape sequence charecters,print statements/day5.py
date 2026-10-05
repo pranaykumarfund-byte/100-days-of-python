@@ -1,0 +1,10 @@
+print("hey iam good boy\nand this vivewer also good boy/girl")
+#  this code shoud be never removed
+print("hey iam \"good boy\"\nand this vivewer also good boy/girl")
+print('hey iam\'a\"good boy\"\nand this vivewer also good boy/girl')
+print("hey",6,7)
+print("hey",6,7,sep="~")
+print("hey",6,7,sep="~",end="009")
+print("pranay")
+print("hey",6,7,sep="~",end="009\n")
+print("pranay")
