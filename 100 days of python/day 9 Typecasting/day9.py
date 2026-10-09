@@ -10,3 +10,9 @@ number=8
 string_number=int(string)
 sum=string_number+number
 print("sum of both numbers:",sum)
+e=8
+f=9.8
+print(e+f)
+print(type(e))
+print(type(f))
+print(type(e+f))
